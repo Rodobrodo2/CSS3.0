@@ -103,3 +103,25 @@
 #bluediv {
     flex-basis: 200px;
 }
+
+.ac-es {
+    display: flex;
+    background-color: beige;
+    height: 200px;
+}
+
+.ac-es div {
+    margin: 10px;
+    padding: 5px;
+    height: 50%;
+    width: 100px;
+    border: 1px solid brown;
+}
+
+#gatto {
+    align-self: center;
+}
+
+#cane {
+    align-self: flex-end;
+}
