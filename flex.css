@@ -19,3 +19,15 @@
     background-color: purple;
 }
 
+.flex-box1 {
+    display: flex;
+    flex-wrap: wrap;
+    border: 20px solid green;
+    height: 500px;
+}
+
+.box1 {
+    padding: 20px;
+    border: 15px solid yellow;
+    background-color: purple;
+}
