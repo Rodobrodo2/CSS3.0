@@ -33,3 +33,17 @@
     border: 15px solid yellow;
     background-color: purple;
 }
+
+.flex-box3 {
+    display: flex;
+    justify-content: center;
+    border: 20px solid black;
+    height: 200px;
+    margin: 20px;
+    padding: 20px;
+}
+
+.box3 {
+    padding: 20px;
+    border: 10px solid pink;
+}
