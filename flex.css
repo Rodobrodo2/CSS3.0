@@ -85,3 +85,21 @@
 #piccolo {
     flex-shrink: 10;
 }
+
+#myDiv {
+    height:300px;
+    background-color:#FFFFFF;
+}
+
+#mymain {
+    height: 100px;
+    display: flex;
+}
+
+#mymain div {
+    padding:5px;
+}
+
+#bluediv {
+    flex-basis: 200px;
+}
