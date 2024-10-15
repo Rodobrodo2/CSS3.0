@@ -6,6 +6,7 @@
 
 .flex-box {
     display: flex;
+    flex-direction: column;
     border: 20px solid green;
     height: 500px;
     margin: 70px;
@@ -13,8 +14,8 @@
 }
 
 .box {
-    padding: 90px;
-    border: 30px solid yellow;
+    padding: 20px;
+    border: 15px solid yellow;
     background-color: purple;
 }
 
