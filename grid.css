@@ -52,8 +52,13 @@ box-sizing: border-box;
 
 .grid-container2 div {
     padding: 10px;
+    height: 150px;
     border: 1px solid black;
     align-content: center;
     text-align: center;
     background-color: white;
+}
+
+#myitem {
+    height: 250px;
 }
